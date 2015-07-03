@@ -2,4 +2,4 @@
 Hello Description
 
 ## Goal
-[google](www.google.fr)
+[google](http://www.google.fr)
